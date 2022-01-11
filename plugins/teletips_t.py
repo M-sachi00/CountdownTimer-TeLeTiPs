@@ -5,7 +5,7 @@
 # Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/teletips/CountdownTimer-TeLeTiPs/blob/main/LICENSE
                        
   
-START_TEXT = 'Heya,\nMy name is **Countdown Timer** ⏰\n\nI can countdown to your important events in **any group chat**. 🎉\nUse me to keep track of how much time is left for the event ⏳\n\nHit **❓HELP** to find out more about how to use me.'
+START_TEXT = 'Heya,\nMy name is **Live Countdown Timer** ⏰\n\nThis is an advanced live Countdown Timer Bot⏳'
 
 GROUP_TEXT="""
 👥 <u>**Help & Support Groups**</u>
@@ -35,6 +35,6 @@ That's all! 🥳
 DO NOT do more than two (2) countdowns at the same time using the same bot. (Reason: Telegram floodwait)
 """
 
-TUTORIAL_TEXT = "💡 Click the **🎥 Video** button to watch how to create this bot for your group."
+TUTORIAL_TEXT = "This is an advanced live Countdown Timer Bot⏳"
 
 #Copyright ©️ 2021 TeLe TiPs. All Rights Reserved.
